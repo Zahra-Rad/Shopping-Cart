@@ -1,8 +1,15 @@
-# React + Vite
+# Shopping-Cart
+ 
+- 📎 [Demo Project](https://shopping-cart-delta-wheat.vercel.app/) ( + Local storage)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 👩‍💻 Developed by Zahra Rad 
 
-Currently, two official plugins are available:
+- Created - July 2024
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔧 Technologies Used - react
+
+- Role - Frontend
+
+- 📬 How to reach me : with my [instagram](https://www.instagram.com/zahra.rad_dev?utm_source=qr&igsh=MW1rN2kzcDdpcmNocA==) and [linkedin](https://www.linkedin.com/in/zahra-kaboodvandi-rad-87b12021b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+![view top section](https://github.com/user-attachments/assets/c49cc3f2-1358-4bd6-a2b5-5f1749c65fb7)
