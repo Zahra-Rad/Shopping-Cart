@@ -1,0 +1,43 @@
+.footer{
+    background-color: #FF5B29;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(90deg);
+    left: -140px;
+    height: 180px;
+    top: -100px;
+    transform-origin: left bottom;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 50px 50px 0 0;
+    z-index: 100;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    >p{
+        font-size: 12px;
+        >strong{
+            font-size: 18px;
+        }
+    }
+    >div{
+        transform: rotate(-90deg) translate(10px,-165px);
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        transform-origin: right top;
+        a{
+            color: #fff;
+            text-decoration: none;
+            &:hover{
+                text-decoration: underline;
+            }
+        }
+    }
+    &:hover{
+        left: 0;
+    }
+}
