@@ -6,7 +6,7 @@
 
 - Created - July 2024
 
-- 🔧 Technologies Used - react
+- 🔧 Technologies Used - RESTful API, react
 
 - Role - Frontend
 
